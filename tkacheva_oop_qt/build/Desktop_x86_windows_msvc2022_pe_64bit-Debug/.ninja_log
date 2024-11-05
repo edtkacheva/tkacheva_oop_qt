@@ -1,0 +1,8 @@
+# ninja log v5
+3	48	0	C:/Users/katuha/Documents/files/study/5sem/tkacheva_oop_qt/tkacheva_oop_qt/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/CMakeFiles/cmake.verify_globs	d13911b739d4a2eb
+50	353	7519014584780192	tkacheva_oop_qt_autogen/timestamp	b55f1ed68a913678
+50	353	7519014584780192	tkacheva_oop_qt_autogen/mocs_compilation.cpp	b55f1ed68a913678
+50	353	7519014584780192	C:/Users/katuha/Documents/files/study/5sem/tkacheva_oop_qt/tkacheva_oop_qt/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/tkacheva_oop_qt_autogen/timestamp	b55f1ed68a913678
+50	353	7519014584780192	C:/Users/katuha/Documents/files/study/5sem/tkacheva_oop_qt/tkacheva_oop_qt/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug/tkacheva_oop_qt_autogen/mocs_compilation.cpp	b55f1ed68a913678
+355	3339	7519014614984088	CMakeFiles/tkacheva_oop_qt.dir/tkacheva_oop_qt_autogen/mocs_compilation.cpp.obj	bd2a1cda126f1f66
+357	3387	7519014615480886	CMakeFiles/tkacheva_oop_qt.dir/main.cpp.obj	dc5aed3f476d0cf8
